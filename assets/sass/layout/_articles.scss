@@ -1,0 +1,34 @@
+.info {
+  &__organico  {
+  color: $white;
+  background-color: $Quick-silver;
+  padding: 100px 150px 100px 150px;
+
+  }
+  &__tomates{
+    padding: 100px 150px 100px 150px;
+
+  }
+}
+
+.articl{
+  &__about{
+    background-color: $salmon;
+    padding: 150px;
+  }
+  &__sra{
+    padding: 80px 300px 80px 300px;
+    &__img{
+      padding-left: 250px;
+      padding-right: 250px;
+    }
+}
+    &__sr{
+      padding: 80px 300px 80px 300px;
+      &__img{
+        padding-left: 250px;
+        padding-right: 250px;
+      }
+
+  }
+}

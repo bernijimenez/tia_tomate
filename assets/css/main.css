@@ -1,0 +1,101 @@
+@charset "UTF-8";
+body {
+  color: #686963;
+  font-weight: 50px;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  font-family: "Raleway", sans-serif;
+}
+
+.button {
+  border-radius: 3rem;
+}
+
+h1, h2, h3, h4, p {
+  text-align: center;
+}
+
+h1, h3 {
+  color: #fff;
+  font-size: 50px;
+}
+
+.cariño {
+  font-weight: 100px;
+}
+
+h4 {
+  font-weight: 50px;
+}
+
+.header {
+  padding: 40px;
+}
+
+.inicio {
+  background-color: #E97F72;
+  padding: 100px;
+}
+
+.nosotros {
+  background-color: #E97F72;
+  padding: 80px;
+}
+
+.negocio {
+  background-color: #E97F72;
+  padding: 100px;
+}
+
+.inicio {
+  background-color: #E97F72;
+}
+
+.contact {
+  background-color: #E97F72;
+  padding: 100px;
+}
+
+.info__organico {
+  color: #fff;
+  background-color: #A0A0A0;
+  padding: 100px 150px 100px 150px;
+}
+.info__tomates {
+  padding: 100px 150px 100px 150px;
+}
+
+.articl__about {
+  background-color: #E97F72;
+  padding: 150px;
+}
+.articl__sra {
+  padding: 80px 300px 80px 300px;
+}
+.articl__sra__img {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+.articl__sr {
+  padding: 80px 300px 80px 300px;
+}
+.articl__sr__img {
+  padding-left: 300px;
+  padding-right: 300px;
+}
+
+footer {
+  background-color: #A0A0A0;
+  padding: 50px 600px;
+}
+
+/*# sourceMappingURL=main.css.map */
